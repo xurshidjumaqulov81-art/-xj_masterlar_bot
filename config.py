@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BOT_TOKEN = os.getenv("8935060500:AAEffFbkI_at4kKfWy3TgcHIhR8w_c9Tybs")
+BOT_TOKEN = "8935605000:AAEfFfbKl_at4kKFwWy3TgcH1H8Rw_c9Tybs"
 
 ADMIN_IDS = [
     199169309,  # Бу ерга ўз Telegram ID рақамингизни ёзинг
